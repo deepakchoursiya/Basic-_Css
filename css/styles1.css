@@ -1,0 +1,38 @@
+
+  body
+  {
+    background-color: whitesmoke;
+  }
+  h1{
+    color :#66bfbf;
+    font-size: 250px;
+  }
+  img :hover
+  {
+       background-color: white;
+       
+  }
+  img
+  {
+    height: 300px;
+  width: 300px;
+  }
+  .biryani
+  {
+    background-color: green;
+  }
+  .straw
+  {
+    background-color: red;
+  }
+  #head
+  {
+    color: violet;
+  }
+  .circular
+  {
+     border-radius: 100%;
+  }
+  p{
+    font-size: 100px;
+  }
